@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531707748057",
+    "firebase_url": "https://vemanafeeportal.firebaseio.com",
+    "project_id": "vemanafeeportal",
+    "storage_bucket": "vemanafeeportal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531707748057:android:c2fe7ba7c81b96d1",
+        "android_client_info": {
+          "package_name": "com.project.esh_an.vemanafeeportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531707748057-q5ii0sq992n2m5hcq04jmqbn2l46da2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.esh_an.vemanafeeportal",
+            "certificate_hash": "52d73ccef94556ed9212acd5e698a7d9f1a28abe"
+          }
+        },
+        {
+          "client_id": "531707748057-7kbgbpfab5ntl1ojlb7d5j9ihrafespg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP_e_dTsLSNqlSd4ywvjG7u5Hnonh6_4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531707748057-7kbgbpfab5ntl1ojlb7d5j9ihrafespg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
